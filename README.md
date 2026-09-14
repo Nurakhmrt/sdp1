@@ -7,6 +7,8 @@ This repository contains the implementation of Assignment 1 for the Software Des
 * **Language:** Java 17+ (Maven)[cite: 1]
 * **Pattern:** Builder Pattern with Fluent API & Director[cite: 1]
 
+![UML Class Diagram](docs/builder-um![builder-uml.png](../builder-uml.png)l.png)
+
 ## Project Structure
 ```text
 assignment-1-builder/
